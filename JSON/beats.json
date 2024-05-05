@@ -1,22 +1,32 @@
 [
-    {
-      "name": "snare 5",
-      "pitch": "B3",
-      "pattern": "10010"
-    },
-    {
-      "name": "snare 3",
-      "pitch": "B3",
-      "pattern": "100"
-    },
-    {
-      "name": "kick",
-      "pitch": "A3",
-      "pattern": "1000"
-    },
-    {
-      "name": "claps",
-      "pitch": "C4",
-      "pattern": "00001000"
-    }
-  ]
+  {
+    "name": "Base Kick",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "Hi Hat 1",
+    "pitch": "F4",
+    "pattern": "1010101010"
+  },
+  {
+    "name": "Hi Hat 2",
+    "pitch": "F#4",
+    "pattern": "10010010"
+  },
+  {
+    "name": "Snare",
+    "pitch": "B3",
+    "pattern": "100011001000"
+  },
+  {
+    "name": "Shot",
+    "pitch": "C#4",
+    "pattern": "1000100011001100"
+  },
+  {
+    "name": "Clap",
+    "pitch": "C4",
+    "pattern": "10"
+  }
+]
