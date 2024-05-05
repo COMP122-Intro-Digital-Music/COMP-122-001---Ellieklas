@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "Sample 1 - MIDI sequence",
+    "file": "samples/Lab7-b-MIDI Sequence.mp3",
+    "bpm": "120",
+    "loop": "21m"
+  },
+  {
+    "name": "Sample 2 - piano",
+    "file": "samples/Sample-2-Project1.mp3",
+    "bpm": "75",
+    "loop": "8m"
+  },
+  {
+    "name": "Sample 3 - EDM",
+    "file": "samples/Sample-3-Project1.mp3",
+    "bpm": "108",
+    "loop": "8m"
+  }
+]
