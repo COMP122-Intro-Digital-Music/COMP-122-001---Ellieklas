@@ -1,1 +1,52 @@
-[ ]
+[
+  {
+    "name": "Gritty Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "1",
+      "portamento": "0.1",
+      "envelope": {
+        "attack": "0.03",
+        "attackCurve": "linear",
+        "decay": "0.11",
+        "decayCurve": "exponential",
+        "release": "1.05",
+        "releaseCurve": "exponential",
+        "sustain": "0.2"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fatsquare",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  },
+  {
+    "name": "Regular Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "5",
+      "portamento": "0.7",
+      "envelope": {
+        "attack": "0",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.9",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "sine"
+      }
+    }
+  }
+]
